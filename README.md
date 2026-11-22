@@ -2,7 +2,7 @@
 
 A clean, modern, and responsive personal portfolio website built to showcase my frontend development projects, technical skills, and web design work.
 
-🔗 **Live Demo:** [https://ayeshanoor.netlify.app/](https://ayesha-noor-portfolio.vercel.app/)
+🔗 **Live Demo:** [https://ayesha-noor-portfolio.vercel.app/](https://ayesha-noor-portfolio.vercel.app/)
 
 ---
 
